@@ -1,0 +1,14 @@
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.csproj.AssemblyReference.cache
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.Delete.resources
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.Main.resources
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.Properties.Resources.resources
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.Save.resources
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.Search.resources
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.Update.resources
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.csproj.GenerateResource.cache
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.csproj.CoreCompileInputs.cache
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\bin\Debug\SVS.exe.config
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\bin\Debug\SVS.exe
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\bin\Debug\SVS.pdb
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.exe
+C:\Users\jgluk\OneDrive\Stalinis kompiuteris\moklsai\IS\SVS\SVS\SVS\obj\Debug\SVS.pdb
